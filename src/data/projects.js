@@ -27,7 +27,7 @@ export const ProjectData = [
       "Developed a web app to visualize one of the most popular Algorithm that is Breadth First Search.Users have to click on different areas of the board to see how BFS algorithm finds the shortest path",
     tags: ["ReactJs", "Algorithm", "Learning", "Visualize"],
     demo: "https://bfs-shortestpath.netlify.app/",
-    github: "www.example.com",
+    github: "https://github.com/sujay2306/BFS-Visualizer",
     
   },
 
