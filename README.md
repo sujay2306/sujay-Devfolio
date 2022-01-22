@@ -1,4 +1,4 @@
-#Deployed :
+Deployed :
 https://sujay-ks.netlify.app/
 
 # Getting Started with Create React App
