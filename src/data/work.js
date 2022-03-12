@@ -2,11 +2,11 @@ export const WorkData = [
   {
     company: "CipherAce Technologies pvt ltd",
     designation: "Intern",
-    dateJoining: "29-06-2021",
-    dateEnd: "Present",
+    dateJoining: "July 2021",
+    dateEnd: "Jan 2022",
     companyLogo:
       "http://cipheracetech.com/assets/brand/logo.png",
-    work: "Currently an intern and working on products related to Computer Vision.",
+    work: " worked on products related to Computer Vision. and worked on UI development for a product - Contract Management System",
 
   },
 
