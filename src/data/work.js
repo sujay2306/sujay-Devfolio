@@ -1,6 +1,6 @@
 export const WorkData = [
   {
-    company: "PhonePe",
+    company: "SRE at PhonePe",
     designation: "SRE Intern",
     dateJoining: "March 2022",
      dateEnd: "present",
